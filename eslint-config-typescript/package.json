@@ -1,0 +1,31 @@
+{
+  "name": "@loerise/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "the eslint config with typescript by loerise",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loerise/eslint-configs.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint config",
+    "eslint typescript"
+  ],
+  "author": "Lester Lau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loerise/eslint-configs/issues"
+  },
+  "homepage": "https://github.com/loerise/eslint-configs#readme",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.21.0",
+    "@typescript-eslint/parser": "^4.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-react": "^7.23.1"
+  }
+}
