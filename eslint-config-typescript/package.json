@@ -1,6 +1,6 @@
 {
   "name": "@loerise/eslint-config-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the eslint config with typescript by loerise",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,7 @@
   "files": [
     "index.js"
   ],
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.21.0",
     "@typescript-eslint/parser": "^4.21.0",
     "eslint-config-prettier": "^8.1.0",
