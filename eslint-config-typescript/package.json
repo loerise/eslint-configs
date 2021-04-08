@@ -1,6 +1,6 @@
 {
   "name": "@loerise/eslint-config-typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "the eslint config with typescript by loerise",
   "main": "index.js",
   "repository": {

@@ -38,10 +38,9 @@ module.exports = {
       {
         groups: ['builtin', 'external', 'index', ['sibling', 'parent'], 'object'],
         alphabetize: {
-          order: 'asc',
-          caseInsensitive: true,
+          order: 'ignore',
         },
-        'newlines-between': 'always-and-inside-groups',
+        'newlines-between': 'always',
       },
     ],
     'react/display-name': 0,
