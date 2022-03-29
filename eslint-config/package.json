@@ -1,6 +1,6 @@
 {
   "name": "@loerise/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the eslint config by loerise",
   "main": "index.js",
   "repository": {
@@ -23,6 +23,7 @@
   "dependencies": {
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-react": "^7.23.1"
+    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react-hooks": "^4.2.0"
   }
 }
